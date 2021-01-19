@@ -1,0 +1,2 @@
+# TechnologyNote
+The general notes 
